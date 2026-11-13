@@ -312,6 +312,14 @@
     "last_commit": "2026-10-17"
   },
   {
+    "repo": "hashgraph-online/hol-guard",
+    "category": "sandbox",
+    "description": "Local guard for supported AI coding agents that can hold risky tool calls for approval before execution (by the author).",
+    "license": "Apache-2.0",
+    "verified": "2026-11-13",
+    "last_commit": "2026-11-13"
+  },
+  {
     "repo": "modelcontextprotocol/servers",
     "category": "skills",
     "description": "Reference collection of Model Context Protocol servers.",

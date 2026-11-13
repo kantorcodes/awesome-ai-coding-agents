@@ -114,6 +114,7 @@ Run agent code safely.
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) ![stars](https://img.shields.io/github/stars/e2b-dev/E2B?style=flat&label=%E2%98%85) - Open-source secure sandboxes for AI agent code. _(Apache-2.0)_
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) ![stars](https://img.shields.io/github/stars/firecracker-microvm/firecracker?style=flat&label=%E2%98%85) - Secure microVMs for serverless workloads. _(Apache-2.0)_
 - [google/gvisor](https://github.com/google/gvisor) ![stars](https://img.shields.io/github/stars/google/gvisor?style=flat&label=%E2%98%85) - Application kernel for containers, for stronger isolation. _(Apache-2.0)_
+- [hashgraph-online/hol-guard](https://github.com/hashgraph-online/hol-guard) ![stars](https://img.shields.io/github/stars/hashgraph-online/hol-guard?style=flat&label=%E2%98%85) - Local guard for supported AI coding agents that can hold risky tool calls for approval before execution (by the author). _(Apache-2.0)_
 
 ## Skills, rules and prompts
 
